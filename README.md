@@ -1,2 +1,2 @@
 # git_intro
-Hello Word
+Hello World
